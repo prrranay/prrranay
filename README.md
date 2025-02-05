@@ -1,24 +1,31 @@
-# 💫 About Me:
+# 💫 About Me
 A curious tech enthusiast and lifelong learner who loves exploring new ideas, pushing the boundaries of innovation, and connecting with others in the community.
-<br>
-🔭 I’m currently working on:
-Developing innovative projects that blend creativity with technology. Whether it’s tinkering with new frameworks or building tools to solve real-world problems, I’m always diving into the next challenge.
-<br>
-👯 I’m looking to collaborate on:
-Exciting open-source initiatives and community-driven projects. I’m eager to join forces with like-minded individuals who are passionate about coding, design, and making a positive impact through technology.
-<br>
-🤝 I’m looking for help with:
-Feedback and insights on my projects—especially when experimenting with emerging technologies. I welcome collaborations that challenge me to grow and refine my skills.
-<br>
-🌱 I’m currently learning:
-Cutting-edge programming languages, modern frameworks, and best practices in both front-end and back-end development. Every day brings a new opportunity to learn something exciting!
-<br>
-💬 Ask me about:
-Tech trends, coding challenges, creative problem-solving, or even the latest in geek culture and sci-fi. I love sharing ideas and engaging in deep conversations about innovation.
-<br>
-⚡ Fun fact:
-When I’m not immersed in code, you might find me exploring the cosmos through books, movies, or even a spontaneous weekend adventure—always on the lookout for inspiration!
-<br>
+
+## 🔭 I’m currently working on
+- Developing innovative projects that blend creativity with technology.
+- Experimenting with new frameworks and building tools to solve real-world problems.
+
+## 👯 I’m looking to collaborate on
+- Exciting open-source initiatives.
+- Community-driven projects where we can combine coding and design to create impactful solutions.
+
+## 🤝 I’m looking for help with
+- Constructive feedback and insights on my projects, especially those involving emerging technologies.
+- Collaborations that challenge me to grow and refine my skills.
+
+## 🌱 I’m currently learning
+- Cutting-edge programming languages and modern frameworks.
+- Best practices in both front-end and back-end development.
+- New techniques and strategies to continuously evolve in the tech space.
+
+## 💬 Ask me about
+- Tech trends and the latest in programming.
+- Creative problem-solving strategies.
+- Geek culture, sci-fi, and the creative process behind my projects.
+
+## ⚡ Fun fact
+When I'm not immersed in code, you might find me exploring the cosmos through books, movies, or even a spontaneous weekend adventure—always on the lookout for inspiration!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranay-dikonda/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prrranay) 
 
